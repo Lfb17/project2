@@ -7,12 +7,8 @@ public class class1 {
 	}
 	
 	public void newMethod(){
-<<<<<<< HEAD
 		String a;
 		int b;
-=======
-		int a;
->>>>>>> refs/remotes/origin/dev
 	}
 
 }
