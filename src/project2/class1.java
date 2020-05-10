@@ -6,7 +6,7 @@ public class class1 {
 		System.out.println("Test git 3");
 	}
 	
-	public void new(){
+	public void newMethod(){
 		
 	}
 
