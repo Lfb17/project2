@@ -7,7 +7,7 @@ public class class1 {
 	}
 	
 	public void newMethod(){
-		
+		int a;
 	}
 
 }
